@@ -1,3 +1,5 @@
+// 언제까지 공부해야 할까...
+
 package scripts;
 
 import java.io.File;
